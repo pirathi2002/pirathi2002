@@ -1,4 +1,4 @@
-![Diagram of the system](https://github.com/pirathi2002/pirathi2002/blob/main/images/Background.png)
+![Diagram of the system](https://github.com/pirathi2002/pirathi2002/blob/main/images/Background1.png)
 # _Pirathishanth Arudchelvan_
 #### _Passionate in signal processing | physiological modeling | machine learning modeling | genetic circuit design_
 
