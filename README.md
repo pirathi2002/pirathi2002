@@ -12,7 +12,7 @@ In my free time, I enjoy photo editing and playing musical instruments such as t
 
 ## _Projects and Experience_
 
-![@aprilspeight](https://github.com/pirathi2002/pirathi2002/blob/main/images/Muscle-Cramp-Detector.jpg)  [_Muscle-Cramp-Detector device with a combination of highly accurate temperature, EMG, and a custom-developed oxygen percentage measurement sensor._](https://github.com/pirathi2002/Muscle-Cramp-Detector) | ![@Brawrdon](https://github.com/pirathi2002/images/Analog-Wall-Following-Robot.jpg) [_Analog Wall-Following Robot using only analog components and Sharp IR sensors._](https://github.com/pirathi2002/pirathi2002/blob/main/images/Analog-Wall-Following-Robot.jpg)
+![@aprilspeight](https://github.com/pirathi2002/pirathi2002/blob/main/images/Muscle-Cramp-Detector.jpg)  [_Muscle-Cramp-Detector device with a combination of highly accurate temperature, EMG, and a custom-developed oxygen percentage measurement sensor._](https://github.com/pirathi2002/Muscle-Cramp-Detector) | ![@Brawrdon](https://github.com/pirathi2002/images/Analog-Wall-Following-Robot.jpg) [_Analog Wall-Following Robot using only analog components and Sharp IR sensors._](https://github.com/pirathi2002/pirathi2002/blob/main/images/Analog-Wall-Following-Robot.jpg) |
 
 <!---
 pirathi2002/pirathi2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
