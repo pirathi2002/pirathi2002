@@ -1,4 +1,4 @@
-![Diagram of the system](https://github.com/pirathi2002/images/Background.png)
+![Diagram of the system](https://github.com/pirathi2002/pirathi2002/blob/main/images/Background.png)
 # _Pirathishanth Arudchelvan_
 #### _Passionate in signal processing | physiological modeling | machine learning modeling | genetic circuit design_
 
@@ -12,7 +12,7 @@ In my free time, I enjoy photo editing and playing musical instruments such as t
 
 ## _Projects and Experience_
 
-![@aprilspeight](https://github.com/pirathi2002/images/Muscle-Cramp-Detector.jpg)  [_Muscle-Cramp-Detector device with a combination of highly accurate temperature, EMG, and a custom-developed oxygen percentage measurement sensor._](https://github.com/pirathi2002/Muscle-Cramp-Detector) | ![@Brawrdon](https://github.com/pirathi2002/images/Analog-Wall-Following-Robot.jpg) [_Analog Wall-Following Robot using only analog components and Sharp IR sensors._](https://github.com/pirathi2002/Analog-Wall-Following-Robot)
+![@aprilspeight](https://github.com/pirathi2002/pirathi2002/blob/main/images/Muscle-Cramp-Detector.jpg)  [_Muscle-Cramp-Detector device with a combination of highly accurate temperature, EMG, and a custom-developed oxygen percentage measurement sensor._](https://github.com/pirathi2002/Muscle-Cramp-Detector) | ![@Brawrdon](https://github.com/pirathi2002/images/Analog-Wall-Following-Robot.jpg) [_Analog Wall-Following Robot using only analog components and Sharp IR sensors._](https://github.com/pirathi2002/pirathi2002/blob/main/images/Analog-Wall-Following-Robot.jpg)
 
 <!---
 pirathi2002/pirathi2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
