@@ -8,7 +8,7 @@ One of my notable projects is identifying and providing results on respiratory s
 
 In my academic background, I achieved 89th place out of 200,000+ candidates in Sri Lanka for the GCE Advanced Level exam, with A’s in all four subjects: Mathematics, Physics, Chemistry, and English.
 
-In my free time, I enjoy photo editing and playing musical instruments such as the guitar and miruthangam.
+In my free time, I enjoy photo editing and attending concerts in Karnatak music.
 
 ## _Projects and Experience_
 
