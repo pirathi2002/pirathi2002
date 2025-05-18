@@ -5,34 +5,13 @@
 # 👋 Pirathishanth Arudchelvan
 #### _Passionate in Signal Processing | Physiological Modeling | Machine Learning Modeling | Genetic Circuit Design_
 
-I’m [**Pirathishanth Arudchelvan**](https://www.linkedin.com/in/pirathishanth-arudchelvan), an Electronic Engineering undergraduate specializing in **Biomedical Engineering** at the **University of Moratuwa**.
+I’m [_Pirathishanth Arudchelvan_](https://www.linkedin.com/in/pirathishanth-arudchelvan). An Electronic Engineering Undergraduate, specializing in Biomedical Engineering at the University of Moratuwa.
 
-I am passionate about:
+One of my notable projects is identifying and providing results on respiratory system and lung functioning conditions with the help of a velocity sensor, a mobile application, and our own PCB circuit created by my team, X-hale. In that project, we created an enclosure in a unique way to efficiently measure the airflow from the lungs. Currently, we are in the process of obtaining a patent for our project to explore industrial applications with the guidance of Dr. Ajith Pasqual.
 
-- **Physiological modeling**
-- **Bio-signal processing**
-- **Genetic circuit design**
-- **Human-computer interaction**
-- **Machine learning modeling**
+In my academic background, I achieved 89th place out of 35,000+ candidates in Sri Lanka for the GCE Advanced Level exam, with A’s in all three subjects: Mathematics, Physics and Chemistry.
 
----
-
-## 🧪 Featured Project: X-hale  
-A novel system to identify respiratory conditions using a **velocity sensor**, a **mobile app**, and a **custom-designed PCB**.  
-🔹 Designed a unique enclosure to measure lung airflow efficiently.  
-🔹 Currently under **patent process** with the guidance of *Dr. Ajith Pasqual*.
-
----
-
-## 📚 Academic Highlights
-
-- Achieved **89th rank** out of 35,000+ students in Sri Lanka in the **G.C.E. Advanced Level**  
-- Scored **A grades** in:  
-  - Mathematics  
-  - Physics  
-  - Chemistry  
-
----
+In my free time, I enjoy photo editing and attending concerts in Karnatak music.
 
 ## 🔬 Research Interests
 
